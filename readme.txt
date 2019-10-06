@@ -1,5 +1,1 @@
-Edit on dev branch.niubi
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+基于django的个人博客，用来练手的，很粗糙
